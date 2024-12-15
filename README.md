@@ -1,7 +1,7 @@
 <h1>Nadav Idelsohn</h1>
 <h2>Data Scientist/Machine Learning engineer</h2>
-Proven Data Analyst with extensive qualifications from IDF with ML/DL advanced capabilities acquired through continuous self-learning. Proven ability to understand customer needs and develop data-driven solutions. Data Science track Student.
-<h4>Technical Skills: Python, Machine Learning, Data analysis, SQL</h4>
+Proven Data Analyst with extensive qualifications from IDF and advanced ML/DL capabilities acquired through continuous self-learning. Proven ability to understand customer needs and develop data-driven solutions. Data Science track Student.
+<h4>Technical Skills: Python, Machine Learning, Data Analysis, SQL</h4>
 <h1>Experience</h1> 
 
 <b>Data analyst @ Isreal Defence Forces, C4I corps (10/2022 - 09/2023)</b>
@@ -16,8 +16,8 @@ Responsibilities:
 <h1>Data Science Expertise</h1> 
 <b>Career Break (11/2022 - Present)</b>
 
-Over the past couple of years, I have continuously enhanced my skills in DS/ML/DL through self-study and projects. I have Completed multiple
-Specializations and advanced courses while creating projects across various domains on my own.
+In the past couple of years, I have continuously enhanced my DS/ML/DL skills through self-study and projects. I have Completed various
+Specializations and advanced courses while creating projects on my own across multiple domains.
 
 <h2>Projects</h2>
 <table>
@@ -26,12 +26,12 @@ Specializations and advanced courses while creating projects across various doma
         <th>Used Car Prices predictions</th>
     </tr>
     <tr>
-        <td>Predict on the abalone dataset</td>
-        <td>hello</td>
+        <td>Analyzed children's physical activity and fitness data to identify early signs of problematic internet use using <b>Python</b>. My final solution used <b>AutoEncoder</b> to extract feature from time-series aggregation and preprocessing techniques </td>
+        <td>Predicted the price of used cars using <b>Regression</b> methods. The final solution was an ensemble of models that I had fine-tuned using techniques like <b>optuna</b></td>
     </tr>
     <tr>
         <td><img src="images/children_internet_addiction_pic.jpg"  width="600" height="300" alt="CIU project Image"></td>
-        <td><img src="images/used_cars_pic_2.jfif"  width="600" height="300" alt="CIU project Image"></td>
+        <td><img src="images/used_cars_pic_2.jfif" width="600" height="300" alt="CIU project Image"></td>
     </tr>
     <tr>
         <td><a href="https://github.com/Idelsohn/Children-Internet-Use" target="_blank"><button>View Project</button></a></td>
