@@ -1,30 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Projects</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-
-        th, td {
-            text-align: left;
-            padding: 8px;
-            border-bottom: 1px solid #ddd;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        img {
-            width: 100px;
-            height: 100px;
-        }
-    </style>
-</head>
-
 <h1>Nadav Idelsohn</h1>
 <h2>Data Scientist/Machine Learning engineer</h2>
 Proven Data Analyst with extensive qualifications from IDF with ML/DL advanced capabilities acquired through continuous self-learning. Proven ability to understand customer needs and develop data-driven solutions. Data Science track Student.
@@ -40,44 +13,34 @@ Responsibilities:
 </ul>
 
 <h1>DATA SCIENCE</h1> 
-11/2022 - 
+11/2022 -</br>
 Over the past couple of years, I have continuously enhanced my skills in DS/ML/DL through self-study and projects. I have Completed multiple
 Specializations and advanced courses while creating projects across various domains.
+</br>
+Notable qualifications
 <ul>
   <li>Machine Learning Specialization: 95-hour course (Andrew ng)</li>
   <li>Deep Learning Specialization: 125-hour course (Andrew ng)</li>
   <li>HuggingFace NLP course: 100-hour course</li>
 </ul>
-In the past couple of years, I have continuously enhanced my skills in DS/ML/DL through self-study and projects. I have Completed multiple
-Specializations and advanced courses while creating projects across various domains.
-gaining experience.
-
-<body>
-
-<h2>My Projects</h2>
-
+<h2>ML Projects</h2>
 <table>
     <tr>
-        <th>Project Name</th>
-        <th>Project Image</th>
-        <th>Action</th>
+        <th>Children Internet Use</th>
+        <th>Used Car Prices predictions</th>
+        <th>NLP tweets classification</th>
+        <th>Abalone Age Prediction</th>    
     </tr>
     <tr>
-        <td>NLP tweets classification</td>
-        <td><img src=""C:\Users\Nadav\OneDrive\Pictures\NLP_pic.jfif"" alt="Project 1 Image"></td>
-        <td><a href="https://github.com/Idelsohn/NLP_Tweets" target="_blank"><button class="project-button">View on GitHub</button></a></td>
+        <td><img src="images/children_internet_addiction_pic.jpg" alt="CIU project Image"></td>
+        <td><img src="images/used_cars_pic_2.jfif" alt="CIU project Image"></td>
+        <td><img src="images/NLP_pic_2.png" alt="NLP project Image"></td>
+        <td><img src="images/NLP_pic_2.png" alt="NLP project Image"></td>
     </tr>
     <tr>
-        <td>Project 2</td>
-        <td><img src="project2.jpg" alt="Project 2 Image"></td>
-        <td><button>View Details</button></td>
+        <td><a href="https://github.com/Idelsohn/Children-Internet-Use" target="_blank"><button>View Project</button></a></td>
+        <td><a href="https://github.com/Idelsohn/Used-Cars-Predictions" target="_blank"><button>View Project</button></a></td>
+        <td><a href="https://github.com/Idelsohn/NLP_Tweets" target="_blank"><button>View Project</button></a></td>
+        <td><a href="https://github.com/Idelsohn/Abalone_project" target="_blank"><button>View Project</button></a></td>
     </tr>
     </table>
-
-
-</body>
-</html>
-<h2>ML Projects</h2>
-<img src="">
-NLP tweets classification - Classified tweets that describe disaster events using transformers
-
