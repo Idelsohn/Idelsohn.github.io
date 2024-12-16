@@ -9,13 +9,20 @@ Highly motivated data scientist with hands-on experience in Python, SQL, and Mac
 Responsibilities:
 <ul>
   <li>Built and maintained data pipelines using Python and SQL for efficient data analysis.</li>
-  <li>Designed and implemented ETL pipelines to support real-time decision-making, improving operational efficiency by 25%.</li>
-  <li>Created Power BI dashboards for real-time operational monitoring, reducing manual reporting time by 40%.</li>
-  <li>•	Automated manual processes, enhancing user experience and reducing errors.</li>
+  <li>Designed and implemented ETL pipelines to support real-time decision-making, improving operational efficiency.</li>
+  <li>Created Power BI dashboards for real-time operational monitoring, reducing manual reporting time by 50%.</li>
+  <li>Automated manual processes, enhancing user experience and reducing errors.</li>
+</ul>
+
+Key Projects:
+<ul>
+  <li>Developed a BI system for real-time monitoring of camera statuses, ensuring 90% operational coverage.</li>
+  <li>Analyzed foot traffic data during Ramadan, generating actionable insights for leadership.</li>
 </ul>
 
 <h1>Personal Projects</h1> 
 <b>Career Break (11/2022 - Present)</b>
+
 Holding DS/ML/DL skills through multiple domains projects creation, formal and self-studies. 
 
 <table>
@@ -25,7 +32,7 @@ Holding DS/ML/DL skills through multiple domains projects creation, formal and s
     </tr>
     <tr>
         <td width="50%"> Analyzed children's physical activity and fitness data to identify early signs of problematic internet use using <b>Python</b>. My final solution used <b>AutoEncoder</b> to extract feature from time-series aggregation and preprocessing techniques </td>
-        <td width="50%"> Predicted the price of used cars using <b>Regression</b> methods. The final solution was a fine-tuned ensemble. Achieved 0.48 similarity score using QWK <b>optuna</b></td>
+        <td width="50%"> Predicted the price of used cars using <b>Regression</b> methods. The final solution was a fine-tuned ensemble. Achieved 0.48 similarity score using QWK</td>
     </tr>
     <tr>
         <td><img src="images/children_internet_addiction_pic.jpg" width="600" height="300" alt="CIU project Image"></td>
@@ -39,11 +46,11 @@ Holding DS/ML/DL skills through multiple domains projects creation, formal and s
 <table>
     <tr>
         <th>NLP tweets classification</th>
-        <th>Abalone Age Prediction</th>    
+        <th>Obesity Risk Multi-Class</th>    
     </tr>
     <tr>
         <td width="50%">Classified disaster-related tweets with HuggingFace <b>transformers</b>, achieving 82% accuracy.</td>
-        <td width="50%">Predicted the ages of Abalones using various regression</td>
+        <td width="50%">Classified obesity risk in individuals, using <b>XGBoost</b>, LGBM and autoML models, achieving 91% accuracy.</td>
     </tr>
     <tr>
         <td><img src="images/NLP_pic_3.png" width="600" height="300" alt="NLP project Image"></td>
