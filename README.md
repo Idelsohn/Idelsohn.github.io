@@ -24,8 +24,8 @@ Holding DS/ML/DL skills through multiple domains projects creation, formal and s
         <th>Used Car Prices predictions</th>
     </tr>
     <tr>
-        <td width=50%>Analyzed children's physical activity and fitness data to identify early signs of problematic internet use using <b>Python</b>. My final solution used <b>AutoEncoder</b> to extract feature from time-series aggregation and preprocessing techniques </td>
-        <td width=50%>Predicted the price of used cars using <b>Regression</b> methods. The final solution was an ensemble of models that I had fine-tuned using techniques like <b>optuna</b></td>
+        <td width="50%"> Analyzed children's physical activity and fitness data to identify early signs of problematic internet use using <b>Python</b>. My final solution used <b>AutoEncoder</b> to extract feature from time-series aggregation and preprocessing techniques </td>
+        <td width="50%"> Predicted the price of used cars using <b>Regression</b> methods. The final solution was a fine-tuned ensemble. Achieved 0.48 similarity score using QWK <b>optuna</b></td>
     </tr>
     <tr>
         <td><img src="images/children_internet_addiction_pic.jpg" width="600" height="300" alt="CIU project Image"></td>
@@ -42,8 +42,8 @@ Holding DS/ML/DL skills through multiple domains projects creation, formal and s
         <th>Abalone Age Prediction</th>    
     </tr>
     <tr>
-        <td td width=50%>Classified disaster-related tweets with HuggingFace <b>transformers</b>, achieving 82% accuracy.</td>
-        <td td width=50%>Predicted the ages of Abalones using various regression</td>
+        <td width="50%">Classified disaster-related tweets with HuggingFace <b>transformers</b>, achieving 82% accuracy.</td>
+        <td width="50%">Predicted the ages of Abalones using various regression</td>
     </tr>
     <tr>
         <td><img src="images/NLP_pic_3.png" width="600" height="300" alt="NLP project Image"></td>
