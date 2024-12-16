@@ -1,6 +1,6 @@
 <h1>Nadav Idelsohn</h1>
 <h2>Data Scientist/Machine Learning engineer</h2>
-Proven Data Analyst with extensive qualifications from IDF and advanced ML/DL capabilities acquired through continuous self-learning. Proven ability to understand customer needs and develop data-driven solutions. Data Science track Student.
+Proven Data Analyst with extensive qualifications from IDF and autodidacte with advanced ML/DL capabilities. Proven ability to understand customer needs and develop data-driven solutions. Data Science track Student.
 <h4>Technical Skills: Python, Machine Learning, Data Analysis, SQL</h4>
 <h1>Experience</h1> 
 
@@ -16,8 +16,7 @@ Responsibilities:
 <h1>Data Science Expertise</h1> 
 <b>Career Break (11/2022 - Present)</b>
 
-In the past couple of years, I have continuously enhanced my DS/ML/DL skills through self-study and projects. I have Completed various
-Specializations and advanced courses while creating projects on my own across multiple domains.
+Holding DS/ML/DL skills through multiple domains projects creation, formal and self studies. 
 
 <h2>Projects</h2>
 <table>
